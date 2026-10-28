@@ -50,7 +50,8 @@ Use `unit`, `integration`, and `e2e` pytest markers. Run `.venv/bin/python check
 ### Work record
 
 - Issue: https://github.com/shreek3724/IS218_RPS-001/issues/1
-- Pull request / CI: add actual URLs when they exist.
+- Pull request / CI: https://github.com/shreek3724/IS218_RPS-001/pull/2 —
+  https://github.com/shreek3724/IS218_RPS-001/actions/runs/40758418193 (passed).
 - Implementation: [game.py](game.py) now resolves one independent round; see
   [unit and integration tests](tests/test_game.py) and
   [browser round/replay test](tests/e2e/test_round.py).
